@@ -1,0 +1,650 @@
+street,Freq_base,Freq_closed,change
+Applewood Rd,0,25,25
+Brentwood Rd,14,38,24
+Grizzly Rd,13,36,23
+Old Okanagan Hwy,496,519,23
+Stevens Rd,12,35,23
+Westlake Rd,148,171,23
+Alhambra Dr,12,18,6
+Ponderosa Rd,1,7,6
+Gossett Rd,149,153,4
+Elk Rd,50,53,3
+Ridge Estates Dr,50,53,3
+McDougall Creek Bridge,1,3,2
+Ensign Way,10,11,1
+Juliann Rd,2,3,1
+Shamrock Dr,12,13,1
+Shannon Lake Rd,181,182,1
+11th St,1,1,0
+12th St,2,2,0
+13th St,4,4,0
+14th St,4,4,0
+1st Ave,1,1,0
+1st St,2,2,0
+2nd Ave,1,1,0
+2nd St,2,2,0
+3rd Ave,1,1,0
+3rd St,1,1,0
+4th Ave,1,1,0
+4th St,3,3,0
+5th St,3,3,0
+6th Ave,3,3,0
+6th St,2,2,0
+8th St,1,1,0
+Aberdeen Rd,4,4,0
+Addison Rd,6,6,0
+Aitkens Rd,4,4,0
+Alexandria Way,3,3,0
+Allison Pl,2,2,0
+Angus Dr,6,6,0
+Apollo Rd,4,4,0
+Apple Way Blvd,7,7,0
+Applegreen Crt,1,1,0
+Arlington Pl,1,1,0
+Arthur St,1,1,0
+Ashley Crt,1,1,0
+Asquith Crt,1,1,0
+Asquith Rd,22,22,0
+Astoria Dr,2,2,0
+Atkinson Cres,1,1,0
+Aubrey Rd,3,3,0
+Auburn Rd,7,7,0
+Aurora Hts,4,4,0
+Avondale Pl,1,1,0
+Barney Rd,3,3,0
+Bartley Crt,2,2,0
+Bazett Rd,1,1,0
+Beach Ave,346,346,0
+Beachview Dr,1,1,0
+Bellcourt Rd,1,1,0
+Bentley Rd,1,1,0
+Bering Rd,3,3,0
+Beverly Pl,1,1,0
+Big Sky Dr,2,2,0
+Blacksmith Pl,1,1,0
+Blackwood Dr,1,1,0
+Blue Jay Dr,1,1,0
+Bonnie Lane,1,1,0
+Boulder Lake Blvd,2,2,0
+Bowes Rd,1,1,0
+Bradley Dr,5,5,0
+Braeburn Crt,2,2,0
+Brenmaur Rd,1,1,0
+Brentwood Crt,1,1,0
+Bridgeview Rd,6,6,0
+Bridlehill Crt,1,1,0
+Bridlehill Dr,5,5,0
+Brigade Crt,3,3,0
+Britt Rd,3,3,0
+Broadview Pl,2,2,0
+Broadview Rd,8,8,0
+Brookfield Crt,1,1,0
+Brown Pl,2,2,0
+Brown Rd,12,12,0
+Buchanan Rd,14,14,0
+Bulyea Ave,7,7,0
+Burdekin Lane,1,1,0
+Butler Pl,1,1,0
+Butt Rd,15,15,0
+Byland Rd,7,7,0
+Cabernet Crt,2,2,0
+Cabernet Lane,1,1,0
+Cabernet Way,4,4,0
+Caledonia Way,5,5,0
+Camano Rd,1,1,0
+Cameron Rd,1,1,0
+Canary Dr,2,2,0
+Canyon Crest Dr,14,14,0
+Canyon Crest Lane,1,1,0
+Capri Rd,1,1,0
+Carrall Rd,3,3,0
+Carre Rd,3,3,0
+Carrington Crt,2,2,0
+Carrington Rd,2,2,0
+Chancellor Pl,3,3,0
+Chardonnay Pl,1,1,0
+Chasselas Crt,1,1,0
+Chelsea Crt,1,1,0
+Chidley Rd,2,2,0
+Chieftain Rd,2,2,0
+Chives Pl,1,1,0
+Cindy Rd,1,1,0
+Clarence Rd,9,9,0
+Clements Cres,10,10,0
+Cobblestone Rd,6,6,0
+Coldham Rd,9,9,0
+Colleen Rd,2,2,0
+Collens Hill Rd,11,11,0
+Collingwood Rd,1,1,0
+Columbia Ave,5,5,0
+Compass Crt,1,1,0
+Concord Rd,6,6,0
+Copper Ridge Crt,1,1,0
+Copper Ridge Dr,18,18,0
+Copper Ridge Pl,1,1,0
+Copper Ridge Way,1,1,0
+Cordova Way,4,4,0
+Corine Rd,2,2,0
+Corral Crt,1,1,0
+Country Hills Lane,1,1,0
+Country Pines Dr,1,1,0
+Country Pines Gate,5,5,0
+Country Pines Way,3,3,0
+Cousins Pl,1,1,0
+Cousins Rd,13,13,0
+Covington Cres,3,3,0
+Covington Key,1,1,0
+Cox Rd,5,5,0
+Crestview Rd,2,2,0
+Crown Crest Pl,1,1,0
+Davidson Crt,1,1,0
+Deep Creek Bridge,13,13,0
+Deer Ridge Crt,1,1,0
+Denny Crt,1,1,0
+Desert Pines Ave,6,6,0
+Devon Crt,1,1,0
+Devon Rd,3,3,0
+Diamond View Dr,2,2,0
+Dixie Rd,4,4,0
+Dobbin Rd,19,19,0
+Dogwood Rd,1,1,0
+Dominion Rd,1,1,0
+Doucette Dr,5,5,0
+Douglas Rd,5,5,0
+Dougmac Rd,2,2,0
+Drought Rd,7,7,0
+Dryden Rd,11,11,0
+Dunbarton Rd,14,14,0
+Dunfield Rd,3,3,0
+Eagle Ridge Dr,1,1,0
+East Boundary Rd,55,55,0
+Elliott Ave,4,4,0
+Elliott Rd,85,85,0
+Ellison Ave,4,4,0
+Emerald Rd,10,10,0
+Empire Pl,1,1,0
+Ensign Lane,3,3,0
+Ensign Quay,6,6,0
+Ensign Quay Lane,2,2,0
+Evelyn Rd,1,1,0
+Eyre Rd,1,1,0
+Fairview Crt,1,1,0
+Faulkner Cres,3,3,0
+Faulkner Crt,1,1,0
+Fenton Rd,6,6,0
+Ferguson Pl,1,1,0
+Fieldstone Crt,1,1,0
+Flume Crt,1,1,0
+Forest Hill Dr,5,5,0
+Franwill Rd,1,1,0
+Fulks Rd,1,1,0
+Fulton Pl,1,1,0
+Gala View Dr,1,1,0
+Galloway Rd,5,5,0
+Gant Rd,2,2,0
+Garraway Pl,1,1,0
+Gates Crt,1,1,0
+Gates Rd,33,33,0
+Gateway Lane,1,1,0
+Gellatly Rd S,12,12,0
+George Crt,1,1,0
+Gerrie Rd,3,3,0
+Gill Rd,3,3,0
+Gillam Cres,1,1,0
+Gladstone Rd,12,12,0
+Glasgow Rd,1,1,0
+Glen Abbey Crt,1,1,0
+Glen Abbey Pl,5,5,0
+Glen Crt,1,1,0
+Glen Eagles Crt,1,1,0
+Glen Eagles Dr,5,5,0
+Glen Eagles Pl,1,1,0
+Glencoe Rd,14,14,0
+Glenford Rd,1,1,0
+Glengarry Rd,1,1,0
+Glenmount Crt,1,1,0
+Glenrosa Rd,253,253,0
+Glenview Rd,2,2,0
+Glenway Crt,2,2,0
+Glenway Rd,7,7,0
+Golden View Dr,2,2,0
+Goldie Way,3,3,0
+Golf Course Dr,10,10,0
+Gorman Rd,17,17,0
+Graymar Rd,1,1,0
+Green Bay Landing,3,3,0
+Green Bay Rd,11,11,0
+Gregory Rd,14,14,0
+Griffiths Pl,3,3,0
+Guest Rd,3,3,0
+Guidi Rd,20,20,0
+Gummow Rd,6,6,0
+Hackett Rd,2,2,0
+Haker Pl,1,1,0
+Hants Rd,1,1,0
+Harding Rd,3,3,0
+Hardy St,12,12,0
+Harmon Rd,3,3,0
+Harold Rd,12,12,0
+Harrington Crt,1,1,0
+Hawkes St,1,1,0
+Hayman Rd,10,10,0
+Hebert Rd,4,4,0
+Heighway Lane,12,12,0
+Helgason Dr,3,3,0
+Hihannah Dr,6,6,0
+Hihannah View,3,3,0
+Hillsborough Pl,1,1,0
+Hillsborough Rd,2,2,0
+Hitchner Rd,5,5,0
+Hoffman Rd,1,1,0
+Holmes Rd,2,2,0
+Horizon Crt,1,1,0
+Horizon Dr,34,34,0
+Horizon Dr E,1,1,0
+Hoskins Rd,5,5,0
+Huston Rd,17,17,0
+Hwy 97C,8,8,0
+Industrial Rd,6,6,0
+Inga St,1,1,0
+Inglis Pl,1,1,0
+Ingram Rd,3,3,0
+Inverness Rd,7,7,0
+Ironridge Crt,1,1,0
+Ironridge Pl,1,1,0
+Ironridge Rd,13,13,0
+Jackson Cres,5,5,0
+Jennens Rd,3,3,0
+Jokmar Crt,1,1,0
+Joyce Rd,5,5,0
+Karli Crt,1,1,0
+Kelly Dr,12,12,0
+Keloka Way,1,1,0
+Kelview Crt,1,1,0
+Kelview Rd,5,5,0
+Keyes Ave,1,1,0
+King Rd,2,2,0
+Kitson Crt,1,1,0
+Klein Rd,2,2,0
+Kyle Crt,1,1,0
+Kyle Rd,3,3,0
+Lake Ave,2,2,0
+Lake Crt,1,1,0
+Lakeridge Rd,1,1,0
+Lakeside Crt,1,1,0
+Lakeview Ave,3,3,0
+Lakeview Cove Pl,1,1,0
+Lakeview Cove Rd,6,6,0
+Lakeview Rd,7,7,0
+Lang Rd,1,1,0
+Lansbury Crt,1,1,0
+Lansbury Way,2,2,0
+Larsen Ave,2,2,0
+Last Rd,1,1,0
+Law St,5,5,0
+Lenz Rd,1,1,0
+Lever Crt,1,1,0
+Liard Crt,3,3,0
+Lilley St,1,1,0
+Lindsay Crt,1,1,0
+Lipsett Ave,14,14,0
+Lloyd Jones Dr,1,1,0
+Logan Crt,1,1,0
+Logan Rd,7,7,0
+Lornell Cres,3,3,0
+Lornell Crt,2,2,0
+Lower Glenrosa Rd,33,33,0
+Lyon Crt,1,1,0
+Lyon Rd,3,3,0
+MacDonnel Rd,1,1,0
+MacGregor Rd,1,1,0
+Mack Rd,1,1,0
+MacKenzie Rd,1,1,0
+MacKinnon Rd,7,7,0
+MacNeill Crt,1,1,0
+Main St,58,58,0
+Majoros Rd,2,2,0
+Malbec Cres,2,2,0
+Malbec Pl,1,1,0
+Maranatha Dr,3,3,0
+Marathon Crt,4,4,0
+Margaret Rd,1,1,0
+Marlyn Crt,1,1,0
+Marshall Rd,1,1,0
+May St,1,1,0
+McAllister Rd,4,4,0
+McBain Rd,8,8,0
+McCall Pl,2,2,0
+McCallum Rd,3,3,0
+McCann Crt,1,1,0
+McCartney Rd,3,3,0
+McCormick Rd,3,3,0
+McDougald Rd,1,1,0
+McDougall Rd,10,10,0
+McGee Crt,1,1,0
+McGinnis Rd,53,53,0
+McGregor Rd,2,2,0
+McIver Rd,60,60,0
+McIver Rd W,18,18,0
+McKay Lane,1,1,0
+McKay Rd,4,4,0
+McKellar Rd,6,6,0
+McLaughlan Pl,1,1,0
+McLeod Rd,3,3,0
+McMahon Rd,2,2,0
+McMillan Rd,3,3,0
+McMorland Rd,3,3,0
+McNally Rd,1,1,0
+McNaughton Rd,2,2,0
+McPhail Crt,1,1,0
+McPherson Rd,4,4,0
+McQueen Rd,41,41,0
+McRae Rd,17,17,0
+McRobbie Rd,1,1,0
+McTaggart Rd,21,21,0
+McVicar Rd,2,2,0
+Meldrum Pl,1,1,0
+Menu Rd,7,7,0
+Merlot Crt,6,6,0
+Merlot Dr,3,3,0
+Merlot Way,1,1,0
+Michael Dr,1,1,0
+Miller Rd,1,1,0
+Minto St,37,37,0
+Mission Hill Rd,22,22,0
+Mission View Crt,1,1,0
+Montigny Rd,16,16,0
+Moore Dr,6,6,0
+Morningside Dr,6,6,0
+Morrison Cres,6,6,0
+Morrison Crt,2,2,0
+Morrison Pl,1,1,0
+Mountains Hollow Lane,22,22,0
+Mt Boucherie Pl,2,2,0
+Nash St,1,1,0
+Neale Rd,1,1,0
+Newport Rd,4,4,0
+Oak Barrel Lane,1,1,0
+Oak Barrel Pl,3,3,0
+Ogden Rd,24,24,0
+Olalla Rd,2,2,0
+Old Boucherie Rd,18,18,0
+Olympus Way,8,8,0
+Oriole Dr,4,4,0
+Orlin Rd,1,1,0
+Orsini Pl,1,1,0
+Ourtoland Rd,16,16,0
+Paramount Dr,19,19,0
+Paramount Peak Dr,1,1,0
+Parkhurst Rd,4,4,0
+Parkview Crt,1,1,0
+Paula Rd,3,3,0
+Paynter Rd,32,32,0
+Peachland Pl,2,2,0
+Peak Point Crt,1,1,0
+Peak Point Dr,1,1,0
+Peak Point Rd,3,3,0
+Pebble Pl,1,1,0
+Peda Rd,1,1,0
+Perley Rd,1,1,0
+Peters Rd,2,2,0
+Petterson Rd,2,2,0
+Pettman Rd,3,3,0
+Pierce Pl,1,1,0
+Pierce St,3,3,0
+Pike Rd,2,2,0
+Pincushion Pl,1,1,0
+Pineridge Pl,2,2,0
+Pineridge Rd,11,11,0
+Pinewood Pl,1,1,0
+Pinnacle Ridge Dr,2,2,0
+Pinot Gris Dr,4,4,0
+Pinot Noir Dr,24,24,0
+Pinot Noir Pl,2,2,0
+Pleasantview Rd,1,1,0
+Point Pl,4,4,0
+Ponderosa Crt,1,1,0
+Ponderosa Dr,20,20,0
+Ponderosa Pl,3,3,0
+Pop Rd,1,1,0
+Powell Rd,1,1,0
+Preston Rd,5,5,0
+Princess St,1,1,0
+Princeton Ave,159,159,0
+Pritchard Dr,2,2,0
+Pritchard Dr N,12,12,0
+Proserpine Rd,1,1,0
+Quince Rd,7,7,0
+Rainbow Rd,1,1,0
+Ranch Rd,1,1,0
+Reece Rd,86,86,0
+Regal Rd,1,1,0
+Regent Rd,2,2,0
+Renfrew Crt,1,1,0
+Renfrew Rd,21,21,0
+Rhinestone Rd,1,1,0
+Ridge Blvd,6,6,0
+Ridge Pl,1,1,0
+Ridgemount Dr,3,3,0
+Ridgerock Pl,2,2,0
+Ridgerock Way,3,3,0
+Ridgeview Rd,1,1,0
+Riesling Pl,2,2,0
+Riesling Way,2,2,0
+Riffington Pl,1,1,0
+Robinson Lane,1,1,0
+Robinson Pl,2,2,0
+Rock Rose Pl,1,1,0
+Rome Pl,3,3,0
+Rose Abby Dr,3,3,0
+Rose Anne Crt,1,1,0
+Rose Hill Pl,1,1,0
+Rose Meadow Dr,6,6,0
+Rose Tree Rd,2,2,0
+Rose Valley Rd,11,11,0
+Rosealee Crt,1,1,0
+Rosealee Lane,10,10,0
+Rosedale Crt,3,3,0
+Rosedale Pl,1,1,0
+Rosefield Dr,4,4,0
+Rosemary Crt,1,1,0
+Roseridge Crt,2,2,0
+Rosewood Crt,1,1,0
+Rosewood Dr,32,32,0
+Royal Gala Dr,1,1,0
+Rubicon Rd,3,3,0
+Rufli Rd,1,1,0
+Rumney Rd,5,5,0
+Ryser Pl,1,1,0
+Saddleback Pl,2,2,0
+Saddleback Way,4,4,0
+Saddleridge Dr,7,7,0
+Sagebrush Crt,1,1,0
+Sageview Rd,2,2,0
+Salish Rd,10,10,0
+Salloum Rd,3,3,0
+Salmon Rd,7,7,0
+Sand Glass Crt,1,1,0
+Sandberg Rd,3,3,0
+Sanderson Ave,12,12,0
+Sandstone Cres,1,1,0
+Sandstone Dr,4,4,0
+Saturn Rd,1,1,0
+Scantland Rd,2,2,0
+Scenic Ridge Dr,4,4,0
+Scharf Rd,2,2,0
+Scotstown Rd,10,10,0
+Scott Cres,9,9,0
+Scottstown Rd,12,12,0
+Seaton Pl,1,1,0
+Seclusion Bay Rd,6,6,0
+Seclusion Bay Rd Offramp,7,7,0
+Seymoure Ave,3,3,0
+Seymoure Lane,1,1,0
+Shaleridge Pl,1,1,0
+Shaleview Dr,1,1,0
+Shannon Crt,1,1,0
+Shannon Green Crt,1,1,0
+Shannon Heights Crt,2,2,0
+Shannon Heights Pl,3,3,0
+Shannon Hills Dr,5,5,0
+Shannon Hills Pl,1,1,0
+Shannon Pl,6,6,0
+Shannon Ridge Dr,20,20,0
+Shannon View Dr,4,4,0
+Shannon Way,38,38,0
+Shannon Woods Cres,1,1,0
+Shannon Woods Dr,14,14,0
+Shannon Woods Pl,1,1,0
+Shannon Woods Way,1,1,0
+Shaw Rd,7,7,0
+Shawna Crt,1,1,0
+Shelby Cres,1,1,0
+Sherburn Rd,5,5,0
+Shetler Dr,9,9,0
+Shiraz Crt,1,1,0
+Shorerise Blvd,3,3,0
+Siegrist Rd,8,8,0
+Silver Crt,1,1,0
+Sinclair Rd,1,1,0
+Smid Rd,1,1,0
+Smith Creek Rd,45,45,0
+Smith Way,3,3,0
+Solar Rd,1,1,0
+Somerset Ave,65,65,0
+Somerset Crt,1,1,0
+Somerset Pl,1,1,0
+Somerset Rd,5,5,0
+Sonoma Pines Dr,3,3,0
+Spyglass Way,3,3,0
+Starlight Cres,7,7,0
+Stevenson Rd,1,1,0
+Stone Grove Cres,2,2,0
+Stonegate Crt,1,1,0
+Stoneridge Dr,3,3,0
+Stuart Cres,1,1,0
+Stuart Cres S,1,1,0
+Stuart Rd,22,22,0
+Sugosa Pl,1,1,0
+Summerview Crt,1,1,0
+Summerview Pl,1,1,0
+Sundance Crt,1,1,0
+Sundance Dr,4,4,0
+Sundstrom Crt,1,1,0
+Sunnybrae Rd,1,1,0
+Sunnyside Rd,21,21,0
+Sunnyview Rd,2,2,0
+Sunset Pl,1,1,0
+Sunstone St,2,2,0
+Sunview Dr,6,6,0
+Sunview Pl,1,1,0
+Surrey Rd,1,1,0
+Sussex Rd,11,11,0
+Sutherland Rd,2,2,0
+Swite Rd,1,1,0
+Syrah Pl,1,1,0
+Tailyour Lane,1,1,0
+Tallus Green Cres,2,2,0
+Tallus Green Pl,1,1,0
+Tallus Heights Dr,5,5,0
+Tallus Ridge Dr,34,34,0
+Taneda Rd,1,1,0
+Tarragon Crt,1,1,0
+Teal Rd,3,3,0
+Telcor Pl,1,1,0
+Thacker Dr,71,71,0
+Thomas Rd,3,3,0
+Thompson Dr,3,3,0
+Thompson Pl,1,1,0
+Thorne Rd,3,3,0
+Thwaite Cres,1,1,0
+Timothy Pl,1,1,0
+Todd Rd,1,1,0
+Topham Pl,1,1,0
+Topham Rd,5,5,0
+Touriga Pl,1,1,0
+Trails Pl,1,1,0
+Trepanier Bench Rd,50,50,0
+Trepanier Creek Bridge,85,85,0
+Trepanier Heights Ave,3,3,0
+Trepanier Heights Pl,1,1,0
+Trevor Dr,16,16,0
+Trevor Drive Lane,1,1,0
+Turnbull Rd,25,25,0
+Turner Ave,25,25,0
+turning lane,29,29,0
+Tuscany Dr,1,1,0
+Twin Pl,2,2,0
+unnamed lane,2,2,0
+unsigned,5,5,0
+Upper Sundance Dr,2,2,0
+Upton Rd,1,1,0
+Valois Crt,1,1,0
+Vancouver Rd,1,1,0
+Vector Dr,1,1,0
+Vernon Ave,6,6,0
+Vicary Rd,1,1,0
+Victoria St,20,20,0
+Vineyard Dr,48,48,0
+Vineyard View Dr,4,4,0
+Vineyard View Way,1,1,0
+Viognier Dr,7,7,0
+Vista Way Rd,1,1,0
+Wales Rd,2,2,0
+Walker Rd,2,2,0
+Walnut Glen Dr,1,1,0
+Warriors Pl,1,1,0
+Weatherhill Rd,1,1,0
+Webber Rd,53,53,0
+Wellington Rd,1,1,0
+West Bay Rd,1,1,0
+West Crt,1,1,0
+West Kelowna Rd,16,16,0
+Westbrook Dr,2,2,0
+Westgate Rd,1,1,0
+Westview Pl,2,2,0
+Westview Rd,1,1,0
+Westview Way,9,9,0
+Westville Pl,2,2,0
+Westville Way,3,3,0
+Wetton Rd,1,1,0
+Whinton Cres,2,2,0
+Whispering Hills Dr,6,6,0
+Whitworth Rd,4,4,0
+Wiig Rd,1,1,0
+Wild Goose St,1,1,0
+Wild Horse Dr,16,16,0
+Williams St,1,1,0
+Willis Rd,3,3,0
+Wilson Rd,1,1,0
+Windt Rd,1,1,0
+Winnipeg Rd,4,4,0
+Witt Pl,1,1,0
+Witt Rd,10,10,0
+Woodell Rd,1,1,0
+Woodstock Dr,9,9,0
+York Lane,2,2,0
+Yorkton Rd,8,8,0
+Alice Rd,1,0,-1
+Benedick Rd,1,0,-1
+Casa Grande Dr,1,0,-1
+Casa Rio Dr,1,0,-1
+Hewl Rd,6,5,-1
+Zdralek Cove,1,0,-1
+Casa Loma Rd,2,0,-2
+Sailview Bay,2,0,-2
+Bear Creek Rd,37,34,-3
+Casa Palmero Dr,3,0,-3
+Parkinson Rd,49,46,-3
+Western Rd,3,0,-3
+Westside Rd,3,0,-3
+Gellatly Rd,114,110,-4
+Daimler Dr,22,16,-6
+Lucinde Rd,11,0,-11
+Ross Rd,37,23,-14
+Hudson Rd,137,114,-23
+Campbell Rd,26,0,-26
+Bartley Rd,49,16,-33
+Anders Rd,394,345,-49
+Boucherie Rd,345,296,-49
+Hwy 97,364,262,-102
