@@ -1,0 +1,130 @@
+
+Attaching package: ‘igraph’
+
+The following objects are masked from ‘package:stats’:
+
+    decompose, spectrum
+
+The following object is masked from ‘package:base’:
+
+    union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:igraph’:
+
+    as_data_frame, groups, union
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+# A tibble: 7 × 6
+  scenario        mean_evac_min max_evac_min no_exit n_increase_gt2min
+  <chr>                   <dbl>        <dbl>   <int>             <int>
+1 baseline                 7.93         19.8       0                 0
+2 H97_Peachland            8.57         19.8      21               197
+3 H97_WestKelowna         13.1          30.6       0              1250
+4 H97_full                14.8          32.3      21              1447
+5 H97C                     8.10         20.7       0                 0
+6 H97_and_H97C            15.2          32.3      30              1479
+7 McDougall_2023          13.2          29.9      29               922
+  exits_used                                                                    
+  <chr>                                                                         
+1 -119.51898219,49.87806229 1031; -119.52191231,49.92307098 3; -119.76773700,49…
+2 -119.51898219,49.87806229 1031; -119.52191231,49.92307098 3; -119.80870747,49…
+3 -119.52191231,49.92307098 1324; -119.76773700,49.73620647 289; -119.80870747,…
+4 -119.52191231,49.92307098 1324; -119.80870747,49.75685461 253; -119.80887592,…
+5 -119.51898219,49.87806229 1040; -119.52191231,49.92307098 3; -119.76773700,49…
+6 -119.52191231,49.92307098 1324; -119.80870747,49.75685461 333                 
+7 -119.76773700,49.73620647 289; -119.80870747,49.75685461 54; -119.80887592,49…
+# A tibble: 21 × 11
+   speed scenario        closed_segments mean_min median_min max_min
+   <chr> <chr>                     <int>    <dbl>      <dbl>   <dbl>
+ 1 base  baseline                      0     3.31       3.12    9.78
+ 2 base  H97_Peachland                39     3.46       3.15    9.97
+ 3 base  H97_WestKelowna              52     3.37       3.20    9.78
+ 4 base  H97_full                    142     3.62       3.24   17.8 
+ 5 base  H97C                         37     3.31       3.12    9.78
+ 6 base  H97_and_H97C                179     3.55       3.22   11.4 
+ 7 base  McDougall_2023               78     3.27       3.13    9.78
+ 8 slow  baseline                      0     4.22       3.98   12.8 
+ 9 slow  H97_Peachland                39     4.41       4.02   12.8 
+10 slow  H97_WestKelowna              52     4.29       4.05   12.8 
+11 slow  H97_full                    142     4.62       4.13   22.8 
+12 slow  H97C                         37     4.22       3.98   12.8 
+13 slow  H97_and_H97C                179     4.53       4.10   14.9 
+14 slow  McDougall_2023               78     4.16       4.00   12.8 
+15 fast  baseline                      0     2.75       2.60    8.04
+16 fast  H97_Peachland                39     2.87       2.63    8.21
+17 fast  H97_WestKelowna              52     2.79       2.64    8.04
+18 fast  H97_full                    142     2.99       2.67   14.9 
+19 fast  H97C                         37     2.75       2.60    8.04
+20 fast  H97_and_H97C                179     2.93       2.67    9.24
+21 fast  McDougall_2023               78     2.71       2.60    7.90
+   disconnected n_increase_gt1min max_increase_min mean_Peachland
+          <int>             <int>            <dbl>          <dbl>
+ 1            0                 0         0                  3.71
+ 2           21                99         4.38               4.46
+ 3            0                18         1.75               3.74
+ 4           21               172        12.6                4.59
+ 5            0                 0         0.000697           3.71
+ 6           30               163         4.38               4.44
+ 7           29                13         1.49               3.71
+ 8            0                 0         0                  4.75
+ 9           21                99         5.54               5.69
+10            0                31         2.47               4.80
+11           21               177        16.3                5.86
+12            0                 0         0.000134           4.75
+13           30               168         5.54               5.67
+14           29                22         1.96               4.75
+15            0                 0         0                  3.09
+16           21                68         3.53               3.67
+17            0                11         1.55               3.12
+18           21               131        10.4                3.78
+19            0                 0         0                  3.09
+20           30               122         3.53               3.65
+21           29                 9         1.07               3.09
+   mean_WestKelowna
+              <dbl>
+ 1             3.21
+ 2             3.21
+ 3             3.26
+ 4             3.38
+ 5             3.21
+ 6             3.33
+ 7             3.14
+ 8             4.08
+ 9             4.08
+10             4.16
+11             4.30
+12             4.08
+13             4.24
+14             3.99
+15             2.66
+16             2.66
+17             2.70
+18             2.79
+19             2.66
+20             2.74
+21             2.60
+Nodes: 2545  Edges: 2964  Average degree: 2.33 
+# A tibble: 10 × 6
+   street        Freq_base Freq_closed change     eb eb_rank
+   <chr>             <dbl>       <dbl>  <dbl>  <dbl>   <int>
+ 1 Buchanan Rd          14          88     74  38660      87
+ 2 Huston Rd            17          73     56 116745      28
+ 3 Shaw Rd               7          53     46  95419      33
+ 4 Clarence Rd           9          50     41  72024      44
+ 5 Gregory Rd           14          54     40  22916     135
+ 6 Ridge Blvd            6          45     39  49714      72
+ 7 Westlake Rd         148         180     32 341877       9
+ 8 Princeton Ave       159         190     31 386448       7
+ 9 Stevens Rd           12          41     29 254171      12
+10 Applewood Rd          0          29     29   3741     442
+There were 27 warnings (use warnings() to see them)
